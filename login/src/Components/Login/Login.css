@@ -1,0 +1,21 @@
+.container {
+    width: 450px;
+    height: 940px;
+    justify-content: center;
+    display: flex;
+    border-radius: 40px 0px 0px 40px;
+    background: #e0e0e0;
+    box-shadow:  -32px 32px 64px #9b9b9b,
+                 32px -2px 64px #6d6c6c;
+}
+.formulario {
+    padding: 20px;
+    margin-top: 50%;
+    display: flex;
+    background-color: #6d6c6c;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 450px;
+    border-radius: 20px;
+}
